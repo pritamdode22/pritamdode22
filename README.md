@@ -6,12 +6,12 @@
 
 ## 👨‍💻 About Me :
 
-🎯 I’m a Software Engineering aspirant actively seeking **Java Developer Internship / Fresher opportunities**
-🔭 Currently working on Java-based projects and strengthening problem-solving skills
-🌱 Learning Data Structures & Algorithms, Java OOP, MySQL, and AWS Cloud fundamentals
-👯 Open to collaborating on Java, Web Development, and beginner-friendly Open Source projects
-💬 Ask me about Java, C, C++, HTML, CSS, JavaScript, React, and Git/GitHub
-⚡ Fun fact: I learn best by building real-world projects
+- 🎯 I’m a Software Engineering aspirant actively seeking Java Internship / Fresher roles
+- 🔭 Currently working on Java-based projects and improving problem-solving skills
+- 🌱 Learning DSA, Java OOP, MySQL, and AWS Cloud fundamentals
+- 👯 Open to collaborating on Java, Web Development, and Open Source projects
+- 💬 Ask me about Java, C, C++, HTML, CSS, JavaScript, React, and Git/GitHub
+- ⚡ Fun fact: I learn best by building real-world projects
 
 ---
 
